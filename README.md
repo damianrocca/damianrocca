@@ -9,11 +9,11 @@ Me motiva el proceso de aprender una técnica, aplicarla sobre datos reales y ve
 
 
 ## Mis proyectos
-🛒 Proyecto 1 — Análisis de e-commerce brasileño (100k pedidos, 2016-2018). Exploración de ingresos, categorías y métodos de pago mediante SQL, con resultados presentados en Power BI.
+🛒 [Proyecto 1](https://github.com/Damianrcc/data-portfolio/tree/main/proyecto_1) — Análisis de e-commerce brasileño (100k pedidos, 2016-2018). Exploración de ingresos, categorías y métodos de pago mediante SQL, con resultados presentados en Power BI.
 
-🏦 Proyecto 2 — Análisis de churn bancario sobre 10.000 clientes europeos con foco en Data Analytics: limpieza de datos sucios, EDA profundo y modelo de clasificación para predecir abandono. Python + Power BI. 
+🏦 [Proyecto 2](https://github.com/Damianrcc/data-portfolio/tree/main/proyecto_2) — Análisis de churn bancario sobre 10.000 clientes europeos con foco en Data Analytics: limpieza de datos sucios, EDA profundo y modelo de clasificación para predecir abandono. Python + Power BI. 
 
-💳 Proyecto 3 — Predicción de impago crediticio sobre dataset sintético de fintech argentina (100k registros) con foco en Data Science: EDA estadístico, feature engineering, modelado avanzado con Random Forest y optimización de hiperparámetros. Python + Power BI.
+💳 [Proyecto 3](https://github.com/Damianrcc/data-portfolio/tree/main/proyecto_3) — Predicción de impago crediticio sobre dataset sintético de fintech argentina (100k registros) con foco en Data Science: EDA estadístico, feature engineering, modelado avanzado con Random Forest y optimización de hiperparámetros. Python + Power BI.
 
 
 
