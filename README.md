@@ -1,10 +1,11 @@
 # Hola, soy Damián Rocca <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Soy un profesional en transición hacia el análisis y la ciencia de datos: vengo del rubro de la gastronomía — cafés, bares y restaurantes — donde aprendí lo valioso que es el trabajo en equipo, la gestión en la toma de decisiones y el respeto que se sirve al cliente en el plato.
+Soy un profesional en transición hacia el análisis y la ciencia de datos: vengo del rubro de la gastronomía — cafés, bares y restaurantes — donde aprendí lo valioso que es el trabajo en equipo, la gestión de la toma de decisiones y el respeto que se sirve al cliente en el plato.
 
-Desde mediados del 2025 me estoy formando de manera continua en Data Analytics y Data Science. Actualmente estoy en curso de la Tecnicatura Superior en Data Science en Teclab de manera remota, cuento con certificaciones de DataCamp en Data Analyst, Data Science y he completado proyectos propios end-to-end para mi portfolio. 
+Desde mediados de 2025 me estoy formando de manera continua en Data Analytics y Data Science. Actualmente estoy en curso de la Tecnicatura Superior en Data Science en Teclab de manera remota. Cuento con certificaciones de DataCamp en Data Analyst, Data Science y he completado proyectos propios end-to-end para mi portfolio. 
 
-Me motiva el proceso de aprender una técnica, aplicarla sobre datos reales y ver el resultado concreto.
+Me motiva el proceso de aprender una técnica, aplicarla a datos reales y ver el resultado concreto.
+
 
 
 
